@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>PCH</Filter>
+    </ClCompile>
+    <ClCompile Include="DatumTest.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="VectorTest.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="HashMapTest.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="SListTest.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="ScopeTest.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="AttributedTest.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="AttributedFoo.cpp">
+      <Filter>FOO</Filter>
+    </ClCompile>
+    <ClCompile Include="XMLMasterTest.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="FooXMLHelper.cpp">
+      <Filter>FOO</Filter>
+    </ClCompile>
+    <ClCompile Include="FooSharedData.cpp">
+      <Filter>FOO</Filter>
+    </ClCompile>
+    <ClCompile Include="FooScopeData.cpp">
+      <Filter>FOO</Filter>
+    </ClCompile>
+    <ClCompile Include="ScopeParserTest.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="FactoryTest.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="FooFactory.cpp">
+      <Filter>FactoryFoos</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="ActionTest.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="EventTests.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="ReactionTest.cpp">
+      <Filter>Tests</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="Foo.h">
+      <Filter>FOO</Filter>
+    </ClInclude>
+    <ClInclude Include="AttributedFoo.h">
+      <Filter>FOO</Filter>
+    </ClInclude>
+    <ClInclude Include="FooXMLHelper.h">
+      <Filter>FOO</Filter>
+    </ClInclude>
+    <ClInclude Include="FooSharedData.h">
+      <Filter>FOO</Filter>
+    </ClInclude>
+    <ClInclude Include="FooScopeData.h">
+      <Filter>FOO</Filter>
+    </ClInclude>
+    <ClInclude Include="FooFactory.h">
+      <Filter>FactoryFoos</Filter>
+    </ClInclude>
+    <ClInclude Include="FooMacro.h">
+      <Filter>FactoryFoos</Filter>
+    </ClInclude>
+    <ClInclude Include="FooEntity.h">
+      <Filter>FactoryFoos</Filter>
+    </ClInclude>
+    <ClInclude Include="FooAction.h">
+      <Filter>FactoryFoos</Filter>
+    </ClInclude>
+    <ClInclude Include="FooSubscriber.h">
+      <Filter>FooEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="FooMessage.h">
+      <Filter>FooEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="FooSubscriberEnqueue.h">
+      <Filter>FooEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="FooSubscriberClearQ.h">
+      <Filter>FooEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="FooSubscriberException.h">
+      <Filter>FooEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="FooSubscriberUnsub.h">
+      <Filter>FooEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="FooSubscriberSub.h">
+      <Filter>FooEvents</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="PCH">
+      <UniqueIdentifier>{aff24f92-5eba-48fc-9580-757da820f848}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FOO">
+      <UniqueIdentifier>{2ee6859f-0a8b-4566-9e79-4cf95f93ccfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tests">
+      <UniqueIdentifier>{f368a58f-44c8-4a9b-8805-0d0e3da33db9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FactoryFoos">
+      <UniqueIdentifier>{7c67088a-b35d-491a-b63c-9186a6818571}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FooEvents">
+      <UniqueIdentifier>{3060020c-ca3d-4f07-9f45-02debb934ca0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Foo.inl">
+      <Filter>FOO</Filter>
+    </None>
+  </ItemGroup>
+</Project>
