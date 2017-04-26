@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+﻿
+# About Me
 
-You can use the [editor on GitHub](https://github.com/JoseOcasio1994/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Games
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Pigeon Pooper
+     * Rapid Project Prototype, Theme: Fun
+     * Team of 6
+     * High score-based game about pooping on humans
+     * My Tasks: Everything, except score tracking
+     * https://github.com/JoseOcasio1994/Portfolio/tree/master/Games/Pigeon%20Pooper
 
-### Markdown
+2. A Married Dame
+     * Rapid Project Prototype, Theme: Story
+     * Team of 6
+     * Noire style detective game using shadows to tell story
+     * My Tasks: Environment interaction and implementing shadow animation
+     * https://github.com/JoseOcasio1994/Portfolio/tree/master/Games/A%20Married%20Dame
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. Danger Dome
+     * Rapid Project Prototype, Theme: New Technology
+     * Team of 6
+     * FPS using Tobii EyeTracker For Weapon and AI Manipulation
+     * My Tasks: Enemy AI, Bug Fixes, Perforce Control
+     * https://github.com/JoseOcasio1994/Portfolio/tree/master/Games/Danger%20Dome
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoseOcasio1994/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4. PolyAtomic
+     * Game/Project enforcing focus outside of entertainment and referring to a Subject Matter Expert
+     * Team of 4
+     * Puzzle? game in VR where the goal is to combine atoms to make requested compounds
+     * My Tasks: Gameplay Mechanics
+     * LINK TO BE ADDED
