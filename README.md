@@ -1,5 +1,8 @@
 ﻿
 # About Me
+
+![Jose](https://github.com/JoseOcasio1994/Portfolio/blob/master/Resources/Jose.PNG?raw=true) 
+
 I am a Game Programmer currently enrolled in FIEA and interested in VR, RPG, and Puzzle games. I have some experience with Unity 5, Unreal Engine 4, C/C++/C#, and Perforce. As of the creation of this website, I have developed 8 small games with 8 diverse groups of people, with one group where I was lead programmer. I am interested in learning more about the engines/languages I use, hope to become a great asset for the next company I work for, and desire to make enjoyable games.
 
 # Games
