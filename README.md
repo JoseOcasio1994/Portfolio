@@ -10,6 +10,7 @@ I am a Game Programmer currently enrolled in FIEA and interested in VR, RPG, and
 1. **Pigeon Pooper**
      * Rapid Project Prototype, Theme: Fun
      * Team of 6
+     * Flash
      * High score-based game about pooping on humans
      * My Tasks: Everything, except score tracking
 
@@ -18,6 +19,7 @@ I am a Game Programmer currently enrolled in FIEA and interested in VR, RPG, and
 2. **A Married Dame**
      * Rapid Project Prototype, Theme: Story
      * Team of 6
+     * Unity 5
      * Noire style detective game using shadows to tell story
      * My Tasks: Environment interaction and implementing shadow animation
 
@@ -26,6 +28,7 @@ I am a Game Programmer currently enrolled in FIEA and interested in VR, RPG, and
 3. **Danger Dome**
      * Rapid Project Prototype, Theme: New Technology
      * Team of 6
+     * Unreal Engine 4.12
      * FPS using Tobii EyeTracker For Weapon and AI Manipulation
      * My Tasks: Enemy AI, Bug Fixes, Perforce Control
 
@@ -34,7 +37,7 @@ I am a Game Programmer currently enrolled in FIEA and interested in VR, RPG, and
 4. [PolyAtomic](https://joseocasio1994.github.io/PolyAtomic-VR/)
      * Game/Project enforcing focus outside of entertainment and referring to a Subject Matter Expert
      * Team of 4
-     * Puzzle? game in VR where the goal is to combine atoms to make requested compounds
+     * Unreal Engine 4.12
+     * Puzzle game in VR where the goal is to combine atoms to make requested compounds
      * My Tasks: Gameplay Mechanics
      * Lead Programmer
-     * LINK TO BE ADDED
