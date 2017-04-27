@@ -13,17 +13,21 @@ I am a Game Programmer currently enrolled in FIEA and interested in VR, RPG, and
      * High score-based game about pooping on humans
      * My Tasks: Everything, except score tracking
 
+![Pigeon Pooper](https://github.com/JoseOcasio1994/Portfolio/blob/master/Games/Pigeon%20Pooper/Pigeon_Pooper.gif?raw=true) 
+
 2. [A Married Dame](https://github.com/JoseOcasio1994/Portfolio/tree/master/Games/A%20Married%20Dame)
      * Rapid Project Prototype, Theme: Story
      * Team of 6
      * Noire style detective game using shadows to tell story
      * My Tasks: Environment interaction and implementing shadow animation
 
+
 3. [Danger Dome](https://github.com/JoseOcasio1994/Portfolio/tree/master/Games/Danger%20Dome)
      * Rapid Project Prototype, Theme: New Technology
      * Team of 6
      * FPS using Tobii EyeTracker For Weapon and AI Manipulation
      * My Tasks: Enemy AI, Bug Fixes, Perforce Control
+
 
 4. [PolyAtomic](https://joseocasio1994.github.io/PolyAtomic-VR/)
      * Game/Project enforcing focus outside of entertainment and referring to a Subject Matter Expert
