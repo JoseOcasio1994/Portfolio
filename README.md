@@ -21,6 +21,7 @@ I am a Game Programmer currently enrolled in FIEA and interested in VR, RPG, and
      * Noire style detective game using shadows to tell story
      * My Tasks: Environment interaction and implementing shadow animation
 
+![Pigeon Pooper](https://github.com/JoseOcasio1994/Portfolio/blob/master/Games/Danger%20Dome/Danger_Dome.gif?raw=true) 
 
 3. [Danger Dome](https://github.com/JoseOcasio1994/Portfolio/tree/master/Games/Danger%20Dome)
      * Rapid Project Prototype, Theme: New Technology
