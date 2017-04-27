@@ -25,7 +25,7 @@ I am a Game Programmer currently enrolled in FIEA and interested in VR, RPG, and
      * FPS using Tobii EyeTracker For Weapon and AI Manipulation
      * My Tasks: Enemy AI, Bug Fixes, Perforce Control
 
-4. PolyAtomic
+4. [PolyAtomic](https://joseocasio1994.github.io/PolyAtomic-VR/)
      * Game/Project enforcing focus outside of entertainment and referring to a Subject Matter Expert
      * Team of 4
      * Puzzle? game in VR where the goal is to combine atoms to make requested compounds
