@@ -12,7 +12,7 @@ I am a Game Programmer currently enrolled in FIEA and interested in VR, RPG, and
      * Team of 6
      * Flash
      * High score-based game about pooping on humans
-     * My Tasks: Everything, except score tracking
+     * My Tasks: Gameplay and menus
 
 ![Pigeon Pooper](https://github.com/JoseOcasio1994/Portfolio/blob/master/Games/Pigeon%20Pooper/Pigeon_Pooper.gif?raw=true) 
 
@@ -39,5 +39,5 @@ I am a Game Programmer currently enrolled in FIEA and interested in VR, RPG, and
      * Team of 4
      * Unreal Engine 4.12
      * Puzzle game in VR where the goal is to combine atoms to make requested compounds
-     * My Tasks: Gameplay Mechanics
+     * My Tasks: Gameplay Mechanics, maintaining stable builds
      * Lead Programmer
