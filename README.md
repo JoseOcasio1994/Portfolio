@@ -3,7 +3,7 @@
 
 ![Jose](https://github.com/JoseOcasio1994/Portfolio/blob/master/Resources/Jose.PNG?raw=true) 
 
-I am a Game Programmer and recent graduate of Florida Interactive Entertainment Academy and interested in VR, RPG, MMOs, and FPS. I have experience with Unity 5, Unreal Engine 4, C/C++/C#, and Perforce. As of the creation of this website, I have developed 7 games with 7 diverse groups of people, with one group where I was lead programmer. 5 of those games are 2-week rapid prototypes, 1 is a semester long educational VR game, and the last is the 2-semester long Capstone that is the core of FIEA. I also have a game be published on Steam, called Oracle: Threads of Fate. I am interested in learning more about the engines/languages I use, hope to become a great asset for the next company I work for, and desire to make enjoyable games.
+I am a Game Programmer and recent graduate of Florida Interactive Entertainment Academy and interested in VR, RPG, MMOs, and FPS. I have experience with Unity 5, Unreal Engine 4, C/C++/C#, and Perforce. As of the creation of this website, I have developed 7 games with 7 diverse groups of people, with one group where I was lead programmer. 5 of those games are 2-week rapid prototypes, 1 is a semester long educational VR game, and the last is the 2-semester long Capstone that is the core of FIEA. I also have a game published on Steam, called Oracle: Threads of Fate. I am interested in learning more about the engines/languages I use, hope to become a great asset for the next company I work for, and desire to make enjoyable games.
 
 # Games
 
