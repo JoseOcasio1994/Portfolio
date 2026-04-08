@@ -76,10 +76,14 @@ body {
 }
 
 .row2 {
-    padding: 0px 0px 0px 50px;
+    padding-left: 50px;
 }
 
-.row2 li{
+.row3 {
+    padding-left: 100px;
+}
+
+.row2 li, .row3 li{
     font-size: 20px;
 }
 
