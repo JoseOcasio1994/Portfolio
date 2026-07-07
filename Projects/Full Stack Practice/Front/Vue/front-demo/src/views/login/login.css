@@ -1,0 +1,104 @@
+
+.login-container {
+    margin-top: 48px;
+    justify-self: center;
+    justify-items: center;
+    border: 2px black solid;
+    background-color: white;
+    width: 50%;
+
+    input {
+        border: 1px solid black;
+        padding-left: 5px;
+    }
+
+    button {
+        border: 1px solid black;
+        background-color: yellow;
+    }
+
+    button:disabled {
+        cursor: default !important;
+        background-color: grey
+    }
+}
+
+.error-container {
+    border: 1px red solid;
+    background-color: pink;
+    margin-top: 1rem;
+    width: 75%;
+
+    label {
+        margin-left: 10px;
+    }
+}
+
+.username-container, 
+.password-container, 
+.button-container {
+    width: 80%;
+    height: 114px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 24px;
+
+    label {
+        font-size: 1.25rem;
+        font-weight: bold;
+        margin-bottom: 8px;
+    }
+
+    input {
+        width: 95%;
+        height: 30px;
+    }
+
+    a {
+        margin-top: 8px !important;
+    }
+}
+
+.username-container {
+    margin-top: 16px;
+}
+
+.username-container, 
+.password-container {
+    button {
+        width: 200px;
+        margin-top: 10px;
+        background-color: white;
+        color: blueviolet;
+        border: none;
+    }
+}
+
+.password-field-container {
+    display: flex;
+    flex-direction: row;
+
+    input {
+        width: 85%;
+    }
+
+    button {
+        margin-top: 0px;
+        height: 100%;
+        width: 35px;
+        background-color: rgb(185, 183, 183);
+        color: black;
+        justify-self: center;
+    }
+}
+
+.button-container {
+    button {
+        margin-bottom: 8px;
+        font-size: 1.25rem;
+    }
+}
+
+button:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,26 @@
+services:
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - weather-storage:/app/db
+
+  web:
+    build: .
+    tty: true
+    stdin_open: true
+    depends_on:
+      - db
+    environment:
+      # Use the service name 'db' as the hostname
+      DATABASE_URL: postgres:postgres@db:5432/postgres
+    volumes:
+      - weather-storage:/app/python
+
+volumes:
+  weather-storage:

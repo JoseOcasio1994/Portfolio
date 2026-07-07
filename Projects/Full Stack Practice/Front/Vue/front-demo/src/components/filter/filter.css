@@ -1,0 +1,48 @@
+
+.filter-container {
+    height: fit-content;
+    margin-top: 32px;
+    border: 1px grey solid;
+    border-radius: 2rem;
+    margin-left: 16px;
+    min-width: 230px;
+    max-width: 310px;
+    min-height: 300px;
+    overflow-y: hidden;
+}
+
+.filter-container .filter-item{
+    padding: 1rem;
+    border-bottom: 1px solid grey;
+    height: fit-content;
+
+    .filter-header {
+        font-weight: bold;
+        font-size: 1.25rem;
+    }
+
+    ul {
+        margin-top: 10px;
+    }
+}
+
+.filter-container .filter-item .filter-list{
+    padding-inline-start: 0px;
+}
+
+.filter-container .filter-item .range-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 12px;
+
+    input {
+        width: 50px;
+        margin-right: 10px;
+        padding-left: 5px;
+        border: 1px black solid;
+    }
+
+    label {
+        margin-right: 10px;
+    }
+}

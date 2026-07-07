@@ -1,0 +1,27 @@
+# =========================================================================
+# Stage 1: Extract JAR layers using Spring Boot 3.3+ 'tools' mode
+# =========================================================================
+FROM eclipse-temurin:21-jdk-alpine AS extractor
+WORKDIR /extraction
+
+ADD target/*.jar app.jar
+
+# Spring Boot 3.3+ uses '-Djarmode=tools' to extract application layers
+RUN java -Djarmode=tools -jar app.jar extract --layers
+
+# =========================================================================
+# Stage 2: Minimal production runtime
+# =========================================================================
+FROM eclipse-temurin:21-jre-alpine AS runtime
+WORKDIR /application
+
+# Copy extracted layers sequentially from least likely to change to most likely
+COPY --from=extractor /extraction/app/dependencies/ ./
+COPY --from=extractor /extraction/app/spring-boot-loader/ ./
+COPY --from=extractor /extraction/app/snapshot-dependencies/ ./
+COPY --from=extractor /extraction/app/application/ ./
+
+EXPOSE 8080
+
+# Launch the application using the Spring Boot JarLauncher instead of a slow fat JAR
+ENTRYPOINT ["java", "org.springframework.boot.loader.launch.JarLauncher"]

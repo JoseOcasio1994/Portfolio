@@ -1,0 +1,29 @@
+
+.home-container {
+    margin-top: 24px;
+    justify-self: center;
+    align-items: center;
+    border: 2px black solid;
+    background-color: white;
+    width: 50%;
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
+
+    label {
+        justify-self: center;
+        font-weight: bold;
+        font-size: 2rem;
+        margin-top: 64px;
+        margin-bottom: 32px;
+    }
+
+    ul {
+        justify-self: center;
+    }
+
+    li {
+        font-size: 1.25rem;
+        padding-bottom: 24px;
+    }
+}

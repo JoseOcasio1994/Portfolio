@@ -1,0 +1,38 @@
+
+.page-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.count-container {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.button-container {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+
+    button {
+        height: 30px;
+        min-width: 30px;
+        width: fit-content;
+        margin-left: 1rem;
+        border: 1px black solid;
+    }
+
+    label {
+        margin-left: 1rem;
+    }
+}
+
+.active {
+    background-color: blue;
+    color: white;
+}
